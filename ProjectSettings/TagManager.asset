@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Human
+  - SpawnPos
+  - EscapePos
+  - RobotHome
+  - Robot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - HomesAndWalls
+  - Robot
+  - Human
+  - RobotBusy
+  - HumanCaught
+  - SpawnTarget
+  - EscapeTarget
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ForeGround
+    uniqueID: 1546675835
+    locked: 0
+  - name: ForeGroundUp
+    uniqueID: 1915733385
+    locked: 0
+  - name: ForeGroundUp2
+    uniqueID: 1331489161
+    locked: 0
+  - name: Robot
+    uniqueID: 3408832047
+    locked: 0
+  - name: Human
+    uniqueID: 136884971
+    locked: 0
